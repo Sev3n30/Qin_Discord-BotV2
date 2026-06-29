@@ -1,4 +1,4 @@
-﻿# Qin_Discord-Bot
+﻿# Sunshine_Discord-Bot
 
   Um bot para Discord com múltiplas funcionalidades, desenvolvido com foco em aprendizado e evolução contínua.
   O projeto tem como objetivo crescer futuramente para algo além de um simples bot, se tornando uma aplicação mais completa.
