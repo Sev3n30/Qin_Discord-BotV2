@@ -1,4 +1,4 @@
-const {carregarStats, salvarStats} = require("../../systems/stats.js")
+const {carregarStats, salvarStats, carregarWeeklyStats, salvarWeeklyStats} = require("../../systems/stats.js")
 
 module.exports = {
     name: "voiceStateUpdate",
@@ -9,10 +9,22 @@ module.exports = {
         if(member.user.bot) return
 
         const userId = member.id
+        const weeklyStats = carregarWeeklyStats()
         const stats = carregarStats()
 
         if(!stats[userId]){
             stats[userId] = {
+                mensagens: 0,
+                dadosRolados: 0,
+                moedasJogadas: 0,
+                tempoCall: 0,
+                cartasRaras: 0,
+                desafiosGanhos: 0,
+                callStart: null
+            }
+        }
+        if(!weeklyStats[userId]){
+            weeklyStats[userId] = {
                 mensagens: 0,
                 dadosRolados: 0,
                 moedasJogadas: 0,
@@ -28,8 +40,10 @@ module.exports = {
             console.log(`${member.user.username} entrou na call`)
 
             stats[userId].callStart = Date.now()
+            weeklyStats[userId].callStart = Date.now()
 
             salvarStats(stats)
+            salvarWeeklyStats(weeklyStats)
 
             return
         }
@@ -37,18 +51,23 @@ module.exports = {
 
             console.log(`${member.user.username} saiu da call`)
 
-            const inicio = stats[userId].callStart
+            const inicioStats = stats[userId].callStart
+            const inicioWeekly = weeklyStats[userId].callStart
 
-            if(inicio){
-                const tempoNaCall = Date.now() - inicio
+            if(inicioStats && inicioWeekly){
+                const tempoNaCallStats = Date.now() - inicioStats
+                const tempoNaCallWeekly = Date.now() - inicioWeekly
 
-                stats[userId].tempoCall += tempoNaCall
+                stats[userId].tempoCall += tempoNaCallStats
+                weeklyStats[userId].tempoCall += tempoNaCallWeekly
 
                 stats[userId].callStart = null
+                weeklyStats[userId].callStart = null
 
                 salvarStats(stats)
+                salvarWeeklyStats(weeklyStats)
 
-                console.log(`Tempo adicionado: ${tempoNaCall}ms`)
+                console.log(`Tempo adicionado: ${tempoNaCallWeekly}ms`)
             }
         }
     }

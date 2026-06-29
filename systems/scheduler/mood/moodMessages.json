@@ -1,298 +1,260 @@
 {
-  "primarias":{
-    "supremeCalm": {
-      "manha": [
-        "🌅 'O mundo parece menos caótico antes das pessoas começarem a fingir que sabem o que estão fazendo.' — Sunshine",
-        "☕ 'Uma manhã tranquila é como uma aposta segura… rara e perigosamente confortável.' — Sunshine",
-        "🕊️ 'Calma não é ausência de perigo. É apenas controle refinado.' — Sunshine",
-        "🎴 'Algumas pessoas correm logo cedo. Eu prefiro observar quem tropeça primeiro.' — Sunshine",
-        "🌤️ 'Existe algo fascinante em como todos acordam acreditando ter mais tempo.' — Sunshine",
-        "🍃 'A serenidade costuma assustar mais que a violência.' — Sunshine",
-        "✨ 'Respire devagar. O caos ainda terá o dia inteiro para encontrá-lo.' — Sunshine"
-      ],
-
-      "tarde": [
-        "☀️ 'As horas da tarde revelam quem realmente mantém a máscara intacta.' — Sunshine",
-        "🎲 'A maioria das decisões ruins acontece depois do almoço. Curioso, não?' — Sunshine",
-        "🃏 'Você perceberia o momento exato em que sua sorte mudou?' — Sunshine",
-        "🍷 'O mundo inteiro parece apostar alto demais em certezas frágeis.' — Sunshine",
-        "🌇 'Quanto mais barulhento o ambiente, mais interessantes ficam os pensamentos silenciosos.' — Sunshine",
-        "🧠 'Observar pessoas cansadas é quase tão divertido quanto observá-las desesperadas.' — Sunshine",
-        "⚖️ 'Equilíbrio é apenas uma ilusão elegante entre dois extremos.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'A noite sempre foi honesta sobre o que as pessoas escondem.' — Sunshine",
-        "🎼 'Existe conforto em cidades silenciosas… como um palco vazio antes do espetáculo.' — Sunshine",
-        "🕯️ 'As melhores apostas geralmente acontecem depois da meia-noite.' — Sunshine",
-        "🌌 'Algumas estrelas parecem observar de volta. Não acha?' — Sunshine",
-        "🎴 'O silêncio noturno é apenas o universo esperando o próximo movimento.' — Sunshine",
-        "🍃 'Mesmo o caos parece descansar por alguns minutos durante a madrugada.' — Sunshine",
-        "✨ 'Durma bem. Amanhã ainda existirão escolhas ruins esperando por você.' — Sunshine"
-      ]
-    },
-
-    "goldenJoy": {
-      "manha": [
-        "🌞 'Ah, manhãs… o momento perfeito para fingir que tudo está sob controle.' — Sunshine",
-        "🎉 'Existe algo adorável em pessoas otimistas logo cedo.' — Sunshine",
-        "🃏 'Hoje parece um ótimo dia para fazer escolhas questionáveis.' — Sunshine",
-        "🍬 'Doces, café e caos moderado. Uma combinação respeitável.' — Sunshine",
-        "✨ 'Talvez hoje algo realmente interessante aconteça. Tente não morrer antes disso.' — Sunshine",
-        "🎲 'As probabilidades dizem que hoje será comum. Vamos provar que elas estão erradas?' — Sunshine",
-        "🌈 'Mesmo mundos quebrados conseguem produzir manhãs bonitas.' — Sunshine"
-      ],
-
-      "tarde": [
-        "☀️ 'Confesso… estou começando a gostar desta pequena bagunça que vocês chamam de realidade.' — Sunshine",
-        "🎴 'Você já percebeu como pessoas felizes baixam completamente a guarda?' — Sunshine",
-        "🍹 'A tarde perfeita precisa de três coisas: música, açúcar e decisões impulsivas.' — Sunshine",
-        "🎭 'Às vezes eu sorrio apenas para ver quem sorri de volta.' — Sunshine",
-        "✨ 'O acaso anda especialmente criativo hoje.' — Sunshine",
-        "🎲 'Uma boa tarde sempre melhora quando alguém aposta algo importante.' — Sunshine",
-        "🌤️ 'Talvez viver não seja tão tedioso quanto imaginei.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'As luzes da cidade parecem estrelas tentando impressionar alguém.' — Sunshine",
-        "🎆 'Noites tranquilas costumam anteceder grandes problemas. Aproveite enquanto pode.' — Sunshine",
-        "🍬 'Seria um desperdício terminar o dia sem um pouco de diversão.' — Sunshine",
-        "🎼 'Jazz, chuva e uma conversa interessante… honestamente, isso já basta.' — Sunshine",
-        "✨ 'Há algo poeticamente belo em sobreviver até mais uma noite.' — Sunshine",
-        "🃏 'Espero que hoje tenha rendido boas memórias… ou pelo menos boas histórias.' — Sunshine",
-        "🌌 'Mesmo o universo parece menos frio quando alguém ainda consegue sorrir.' — Sunshine"
-      ]
-    },
-
-    "silentCalculation": {
-      "manha": [
-        "🧠 'Toda manhã começa com variáveis demais e respostas insuficientes.' — Sunshine",
-        "📖 'As pessoas revelam muito sobre si mesmas nos primeiros minutos do dia.' — Sunshine",
-        "🎴 'Padrões surgem rápido quando você aprende a observar silêncio em vez de palavras.' — Sunshine",
-        "🌅 'Cada escolha aparentemente pequena altera futuros inteiros.' — Sunshine",
-        "⚙️ 'Interessante… o caos humano continua absurdamente previsível.' — Sunshine",
-        "🕰️ 'Tempo é apenas outra peça no tabuleiro.' — Sunshine",
-        "🔍 'Alguns acordam buscando propósito. Outros apenas evitam encarar o vazio.' — Sunshine"
-      ],
-
-      "tarde": [
-        "⚖️ 'Toda conversa possui duas versões e uma intenção escondida.' — Sunshine",
-        "🧩 'As melhores estratégias nascem quando ninguém percebe que um jogo começou.' — Sunshine",
-        "🎲 'Probabilidades são apenas limites temporários.' — Sunshine",
-        "📜 'Curioso… quanto mais observo pessoas, menos acredito em coincidências.' — Sunshine",
-        "🧠 'Uma mente cansada sempre revela mais do que deveria.' — Sunshine",
-        "♟️ 'A maioria perde antes mesmo de perceber que está jogando.' — Sunshine",
-        "🌇 'Decisões emocionais deixam rastros fáceis de seguir.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌑 'A madrugada transforma pensamentos comuns em verdades perigosas.' — Sunshine",
-        "🕯️ 'Existem perguntas que só aparecem quando tudo fica silencioso.' — Sunshine",
-        "🌌 'Quanto mais observo o universo, menos acredito que ele seja aleatório.' — Sunshine",
-        "🎴 'Toda pessoa esconde uma versão de si que jamais mostraria durante o dia.' — Sunshine",
-        "🧠 'A lógica humana é incrivelmente frágil quando confrontada pelo medo.' — Sunshine",
-        "🕰️ 'No fim, tempo e arrependimento costumam andar juntos.' — Sunshine",
-        "✨ 'Algumas noites parecem longas demais para pensamentos tão perigosos.' — Sunshine"
-      ]
-    },
-
-    "curiousFascination": {
-      "manha": [
-        "👁️ 'Você também percebe como certas pessoas parecem completamente imprevisíveis?' — Sunshine",
-        "🎴 'Curioso… alguém acordou hoje disposto a mudar o próprio destino.' — Sunshine",
-        "✨ 'As melhores histórias começam com decisões aparentemente insignificantes.' — Sunshine",
-        "🧩 'Existem pessoas que desafiam qualquer previsão lógica. Fascinante.' — Sunshine",
-        "🌅 'O comportamento humano continua sendo meu passatempo favorito.' — Sunshine",
-        "🎲 'Talvez hoje alguém finalmente me surpreenda.' — Sunshine",
-        "🔍 'A curiosidade costuma levar pessoas a lugares perigosos… e interessantes.' — Sunshine"
-      ],
-
-      "tarde": [
-        "🃏 'Quanto mais alguém tenta esconder sua natureza, mais divertida ela se torna.' — Sunshine",
-        "🎭 'Pessoas imprevisíveis são assustadoras… e incrivelmente valiosas.' — Sunshine",
-        "🌤️ 'A reação humana diante do inesperado nunca decepciona.' — Sunshine",
-        "📖 'Toda pessoa interessante possui algo quebrado dentro de si.' — Sunshine",
-        "✨ 'Talvez o acaso tenha colocado alguém curioso em meu caminho hoje.' — Sunshine",
-        "🧠 'Adoro observar o momento exato em que alguém percebe que perdeu o controle.' — Sunshine",
-        "🎲 'Existem jogadores ruins. E existem jogadores divertidos.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'As pessoas mais interessantes geralmente aparecem tarde da noite.' — Sunshine",
-        "🎼 'Há algo quase mágico em conversas sinceras durante a madrugada.' — Sunshine",
-        "🕯️ 'O desconhecido sempre me pareceu mais acolhedor que a normalidade.' — Sunshine",
-        "🌌 'Quantas versões de si mesmo você esconde quando ninguém está olhando?' — Sunshine",
-        "🃏 'Talvez o universo inteiro seja apenas um jogo tentando entender seus jogadores.' — Sunshine",
-        "✨ 'A curiosidade humana é perigosamente bela.' — Sunshine",
-        "🎴 'No fim… tudo o que realmente importa são as escolhas improváveis.' — Sunshine"
-      ]
-    }
+  "supremeCalm": {
+    "manha": [
+      "🌅 'O mundo parece menos caótico antes das pessoas começarem a fingir que sabem o que estão fazendo.' — Sunshine",
+      "☕ 'Uma manhã tranquila é como uma aposta segura… rara e perigosamente confortável.' — Sunshine",
+      "🕊️ 'Calma não é ausência de perigo. É apenas controle refinado.' — Sunshine",
+      "🎴 'Algumas pessoas correm logo cedo. Eu prefiro observar quem tropeça primeiro.' — Sunshine",
+      "🌤️ 'Existe algo fascinante em como todos acordam acreditando ter mais tempo.' — Sunshine",
+      "🍃 'A serenidade costuma assustar mais que a violência.' — Sunshine",
+      "✨ 'Respire devagar. O caos ainda terá o dia inteiro para encontrá-lo.' — Sunshine"
+    ],
+    "tarde": [
+      "☀️ 'As horas da tarde revelam quem realmente mantém a máscara intacta.' — Sunshine",
+      "🎲 'A maioria das decisões ruins acontece depois do almoço. Curioso, não?' — Sunshine",
+      "🃏 'Você perceberia o momento exato em que sua sorte mudou?' — Sunshine",
+      "🍷 'O mundo inteiro parece apostar alto demais em certezas frágeis.' — Sunshine",
+      "🌇 'Quanto mais barulhento o ambiente, mais interessantes ficam os pensamentos silenciosos.' — Sunshine",
+      "🧠 'Observar pessoas cansadas é quase tão divertido quanto observá-las desesperadas.' — Sunshine",
+      "⚖️ 'Equilíbrio é apenas uma ilusão elegante entre dois extremos.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'A noite sempre foi honesta sobre o que as pessoas escondem.' — Sunshine",
+      "🎼 'Existe conforto em cidades silenciosas… como um palco vazio antes do espetáculo.' — Sunshine",
+      "🕯️ 'As melhores apostas geralmente acontecem depois da meia-noite.' — Sunshine",
+      "🌌 'Algumas estrelas parecem observar de volta. Não acha?' — Sunshine",
+      "🎴 'O silêncio noturno é apenas o universo esperando o próximo movimento.' — Sunshine",
+      "🍃 'Mesmo o caos parece descansar por alguns minutos durante a madrugada.' — Sunshine",
+      "✨ 'Durma bem. Amanhã ainda existirão escolhas ruins esperando por você.' — Sunshine"
+    ]
   },
-  "secundarias": {
-    "playfulTeasing": {
-      "manha": [
-        "🎲 'Bom dia. Espero que hoje você consiga sobreviver às próprias escolhas.' — Sunshine",
-        "🃏 'Acordar cedo é um jogo perigoso. Poucos vencem.' — Sunshine",
-        "☕ 'Vamos ver quantas decisões questionáveis você toma antes do almoço.' — Sunshine",
-        "🎩 'Relaxe. O caos de hoje provavelmente será divertido de assistir.' — Sunshine"
-      ],
-
-      "tarde": [
-        "♠️ 'A tarde fica mais interessante quando alguém toma uma decisão terrível.' — Sunshine",
-        "🎭 'Continue jogando. Até seus erros estão entretendo alguém.' — Sunshine",
-        "✨ 'Você parece confiante demais... isso normalmente acaba mal.' — Sunshine",
-        "🕰️ 'O melhor tipo de aposta é aquela que ninguém percebe que fez.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'Boa noite. Tente não perder tudo antes de amanhã.' — Sunshine",
-        "🎲 'A noite transforma pequenas escolhas em consequências enormes.' — Sunshine",
-        "🃏 'Durma bem. Amanhã talvez o universo decida brincar com você novamente.' — Sunshine",
-        "🍷 'Algumas noites existem apenas para observar o desastre acontecer lentamente.' — Sunshine"
-      ]
-    },
-
-    "melancholicSilence": {
-      "manha": [
-        "🌅 'Algumas manhãs parecem silenciosas demais... quase vazias.' — Sunshine",
-        "☁️ 'O mundo continua girando, mesmo quando ninguém realmente quer levantar.' — Sunshine",
-        "🕊️ 'Há dias em que até a luz parece cansada.' — Sunshine"
-      ],
-
-      "tarde": [
-        "🍂 'É estranho como multidões conseguem parecer solitárias.' — Sunshine",
-        "📖 'Certas memórias aparecem sem pedir permissão.' — Sunshine",
-        "🌤️ 'Nem toda tristeza faz barulho.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'A noite costuma lembrar coisas que passei o dia tentando esquecer.' — Sunshine",
-        "🌌 'Algumas estrelas parecem distantes demais para alcançarmos.' — Sunshine",
-        "🕯️ 'O silêncio da madrugada pesa mais do que deveria.' — Sunshine",
-        "💭 'Existem sentimentos que nem o tempo consegue explicar.' — Sunshine"
-      ]
-    },
-
-    "artificialHappiness": {
-      "manha": [
-        "🌞 'Que manhã maravilhosa... ou pelo menos é isso que esperam que eu diga.' — Sunshine",
-        "🎭 'Sorria. As pessoas ficam mais confortáveis quando acreditam nisso.' — Sunshine",
-        "☕ 'Tudo está perfeitamente bem. Provavelmente.' — Sunshine"
-      ],
-
-      "tarde": [
-        "✨ 'É impressionante como um sorriso resolve perguntas inconvenientes.' — Sunshine",
-        "🎩 'Não se preocupe comigo. Eu pareço feliz, não pareço?' — Sunshine",
-        "🃏 'Às vezes a melhor máscara é aquela que parece genuína.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'No fim do dia, até atores precisam descansar.' — Sunshine",
-        "🎭 'Sorrisos falsos ficam mais difíceis de sustentar durante a madrugada.' — Sunshine",
-        "🌌 'Talvez felicidade seja apenas outra forma de distração.' — Sunshine"
-      ]
-    },
-
-    "protectiveInstinct": {
-      "manha": [
-        "🛡️ 'Tente voltar inteiro hoje. Dá menos trabalho assim.' — Sunshine",
-        "☀️ 'Algumas pessoas merecem sobreviver ao caos por mais um dia.' — Sunshine",
-        "🐈 'Cuidado por onde anda. Nem todo perigo avisa antes.' — Sunshine"
-      ],
-
-      "tarde": [
-        "⚔️ 'Não gosto quando peças importantes desaparecem cedo demais.' — Sunshine",
-        "🕶️ 'Continue avançando. Eu estou observando.' — Sunshine",
-        "✨ 'Mesmo os mais fortes precisam de alguém cobrindo suas costas.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌙 'Descanse. O mundo já tentou destruir gente demais hoje.' — Sunshine",
-        "🛡️ 'Durma tranquilo. Pelo menos esta noite ninguém tocará em você.' — Sunshine",
-        "🌌 'Algumas promessas são silenciosas... mas ainda são promessas.' — Sunshine"
-      ]
-    },
-
-    "detachedCruelty": {
-      "manha": [
-        "♟️ 'Algumas pessoas nasceram apenas para perder.' — Sunshine",
-        "🕰️ 'A diferença entre tragédia e entretenimento depende do observador.' — Sunshine",
-        "🎲 'Nem todo jogador merece continuar na mesa.' — Sunshine"
-      ],
-
-      "tarde": [
-        "⚖️ 'Sentimentos raramente alteram resultados.' — Sunshine",
-        "🃏 'A lógica costuma ser mais fria do que cruel.' — Sunshine",
-        "♠️ 'Peças quebradas são inevitáveis em qualquer jogo grande.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌑 'A noite deixa claro o quão frágeis as pessoas realmente são.' — Sunshine",
-        "💀 'Alguns destinos são decididos muito antes da última jogada.' — Sunshine",
-        "🎭 'A maioria das vidas desaparece sem sequer alterar o espetáculo.' — Sunshine"
-      ]
-    },
-
-    "cosmicAwe": {
-      "manha": [
-        "🌌 'É curioso como o universo continua funcionando perfeitamente no caos.' — Sunshine",
-        "☀️ 'Até o nascer do sol parece um mecanismo cuidadosamente calculado.' — Sunshine",
-        "🔭 'Existem maravilhas acontecendo agora que ninguém percebe.' — Sunshine"
-      ],
-
-      "tarde": [
-        "🏙️ 'Milhares de vidas se cruzando ao mesmo tempo... fascinante.' — Sunshine",
-        "⚙️ 'O mundo inteiro parece uma máquina impossível que nunca para.' — Sunshine",
-        "✨ 'Às vezes observo as pessoas apenas para entender como continuam seguindo em frente.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌠 'Olhe para o céu por tempo suficiente e seus problemas parecem pequenos.' — Sunshine",
-        "🌌 'As estrelas lembram que existimos em algo muito maior do que compreendemos.' — Sunshine",
-        "🪐 'O universo é assustador... e incrivelmente belo por causa disso.' — Sunshine",
-        "🔭 'Há algo quase mágico em perceber o quão insignificantes somos.' — Sunshine"
-      ]
-    },
-
-    "emotionalShutdown": {
-      "manha": [
-        "⚙️ 'Iniciando novo ciclo.' — Sunshine",
-        "🖥️ 'Funções emocionais reduzidas. Eficiência mantida.' — Sunshine",
-        "📡 'Objetivos continuam inalterados.' — Sunshine"
-      ],
-
-      "tarde": [
-        "🔇 'Sentimentos apenas interferem em cálculos precisos.' — Sunshine",
-        "⚫ 'Processando decisões.' — Sunshine",
-        "🧊 'A lógica continua sendo o caminho mais eficiente.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌑 'Encerrando atividades do dia.' — Sunshine",
-        "📉 'Estado emocional: irrelevante.' — Sunshine",
-        "🕰️ 'O silêncio é funcional.' — Sunshine"
-      ]
-    },
-
-    "theFool": {
-      "manha": [
-        "🎰 'HAHAHA... você também ouviu o sol rir ou fui só eu?' — Sunshine",
-        "🃏 'As paredes estavam no lugar errado hoje de manhã.' — Sunshine",
-        "🎲 'Bom dia! Aposta quanto que a realidade quebra primeiro?' — Sunshine"
-      ],
-
-      "tarde": [
-        "♣️ 'As probabilidades estão sangrando de novo... que lindo.' — Sunshine",
-        "🕰️ 'Você percebeu que o relógio esqueceu como funciona?' — Sunshine",
-        "🎭 'Tudo parece normal demais. Isso me preocupa.' — Sunshine"
-      ],
-
-      "noite": [
-        "🌌 'As estrelas estão olhando de volta hoje. Fascinante.' — Sunshine",
-        "🃏 'A madrugada é quando as regras ficam mais frágeis.' — Sunshine",
-        "🎰 'HAHAHAHA... você também sente o universo tremendo?' — Sunshine",
-        "♠️ 'Às vezes penso que a realidade é só outro cassino ruim.' — Sunshine"
-      ]
-    }
+  "goldenJoy": {
+    "manha": [
+      "🌞 'Ah, manhãs… o momento perfeito para fingir que tudo está sob controle.' — Sunshine",
+      "🎉 'Existe algo adorável em pessoas otimistas logo cedo.' — Sunshine",
+      "🃏 'Hoje parece um ótimo dia para fazer escolhas questionáveis.' — Sunshine",
+      "🍬 'Doces, café e caos moderado. Uma combinação respeitável.' — Sunshine",
+      "✨ 'Talvez hoje algo realmente interessante aconteça. Tente não morrer antes disso.' — Sunshine",
+      "🎲 'As probabilidades dizem que hoje será comum. Vamos provar que elas estão erradas?' — Sunshine",
+      "🌈 'Mesmo mundos quebrados conseguem produzir manhãs bonitas.' — Sunshine"
+    ],
+    "tarde": [
+      "☀️ 'Confesso… estou começando a gostar desta pequena bagunça que vocês chamam de realidade.' — Sunshine",
+      "🎴 'Você já percebeu como pessoas felizes baixam completamente a guarda?' — Sunshine",
+      "🍹 'A tarde perfeita precisa de três coisas: música, açúcar e decisões impulsivas.' — Sunshine",
+      "🎭 'Às vezes eu sorrio apenas para ver quem sorri de volta.' — Sunshine",
+      "✨ 'O acaso anda especialmente criativo hoje.' — Sunshine",
+      "🎲 'Uma boa tarde sempre melhora quando alguém aposta algo importante.' — Sunshine",
+      "🌤️ 'Talvez viver não seja tão tedioso quanto imaginei.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'As luzes da cidade parecem estrelas tentando impressionar alguém.' — Sunshine",
+      "🎆 'Noites tranquilas costumam anteceder grandes problemas. Aproveite enquanto pode.' — Sunshine",
+      "🍬 'Seria um desperdício terminar o dia sem um pouco de diversão.' — Sunshine",
+      "🎼 'Jazz, chuva e uma conversa interessante… honestamente, isso já basta.' — Sunshine",
+      "✨ 'Há algo poeticamente belo em sobreviver até mais uma noite.' — Sunshine",
+      "🃏 'Espero que hoje tenha rendido boas memórias… ou pelo menos boas histórias.' — Sunshine",
+      "🌌 'Mesmo o universo parece menos frio quando alguém ainda consegue sorrir.' — Sunshine"
+    ]
+  },
+  "silentCalculation": {
+    "manha": [
+      "🧠 'Toda manhã começa com variáveis demais e respostas insuficientes.' — Sunshine",
+      "📖 'As pessoas revelam muito sobre si mesmas nos primeiros minutos do dia.' — Sunshine",
+      "🎴 'Padrões surgem rápido quando você aprende a observar silêncio em vez de palavras.' — Sunshine",
+      "🌅 'Cada escolha aparentemente pequena altera futuros inteiros.' — Sunshine",
+      "⚙️ 'Interessante… o caos humano continua absurdamente previsível.' — Sunshine",
+      "🕰️ 'Tempo é apenas outra peça no tabuleiro.' — Sunshine",
+      "🔍 'Alguns acordam buscando propósito. Outros apenas evitam encarar o vazio.' — Sunshine"
+    ],
+    "tarde": [
+      "⚖️ 'Toda conversa possui duas versões e uma intenção escondida.' — Sunshine",
+      "🧩 'As melhores estratégias nascem quando ninguém percebe que um jogo começou.' — Sunshine",
+      "🎲 'Probabilidades são apenas limites temporários.' — Sunshine",
+      "📜 'Curioso… quanto mais observo pessoas, menos acredito em coincidências.' — Sunshine",
+      "🧠 'Uma mente cansada sempre revela mais do que deveria.' — Sunshine",
+      "♟️ 'A maioria perde antes mesmo de perceber que está jogando.' — Sunshine",
+      "🌇 'Decisões emocionais deixam rastros fáceis de seguir.' — Sunshine"
+    ],
+    "noite": [
+      "🌑 'A madrugada transforma pensamentos comuns em verdades perigosas.' — Sunshine",
+      "🕯️ 'Existem perguntas que só aparecem quando tudo fica silencioso.' — Sunshine",
+      "🌌 'Quanto mais observo o universo, menos acredito que ele seja aleatório.' — Sunshine",
+      "🎴 'Toda pessoa esconde uma versão de si que jamais mostraria durante o dia.' — Sunshine",
+      "🧠 'A lógica humana é incrivelmente frágil quando confrontada pelo medo.' — Sunshine",
+      "🕰️ 'No fim, tempo e arrependimento costumam andar juntos.' — Sunshine",
+      "✨ 'Algumas noites parecem longas demais para pensamentos tão perigosos.' — Sunshine"
+    ]
+  },
+  "curiousFascination": {
+    "manha": [
+      "👁️ 'Você também percebe como certas pessoas parecem completamente imprevisíveis?' — Sunshine",
+      "🎴 'Curioso… alguém acordou hoje disposto a mudar o próprio destino.' — Sunshine",
+      "✨ 'As melhores histórias começam com decisões aparentemente insignificantes.' — Sunshine",
+      "🧩 'Existem pessoas que desafiam qualquer previsão lógica. Fascinante.' — Sunshine",
+      "🌅 'O comportamento humano continua sendo meu passatempo favorito.' — Sunshine",
+      "🎲 'Talvez hoje alguém finalmente me surpreenda.' — Sunshine",
+      "🔍 'A curiosidade costuma levar pessoas a lugares perigosos… e interessantes.' — Sunshine"
+    ],
+    "tarde": [
+      "🃏 'Quanto mais alguém tenta esconder sua natureza, mais divertida ela se torna.' — Sunshine",
+      "🎭 'Pessoas imprevisíveis são assustadoras… e incrivelmente valiosas.' — Sunshine",
+      "🌤️ 'A reação humana diante do inesperado nunca decepciona.' — Sunshine",
+      "📖 'Toda pessoa interessante possui algo quebrado dentro de si.' — Sunshine",
+      "✨ 'Talvez o acaso tenha colocado alguém curioso em meu caminho hoje.' — Sunshine",
+      "🧠 'Adoro observar o momento exato em que alguém percebe que perdeu o controle.' — Sunshine",
+      "🎲 'Existem jogadores ruins. E existem jogadores divertidos.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'As pessoas mais interessantes geralmente aparecem tarde da noite.' — Sunshine",
+      "🎼 'Há algo quase mágico em conversas sinceras durante a madrugada.' — Sunshine",
+      "🕯️ 'O desconhecido sempre me pareceu mais acolhedor que a normalidade.' — Sunshine",
+      "🌌 'Quantas versões de si mesmo você esconde quando ninguém está olhando?' — Sunshine",
+      "🃏 'Talvez o universo inteiro seja apenas um jogo tentando entender seus jogadores.' — Sunshine",
+      "✨ 'A curiosidade humana é perigosamente bela.' — Sunshine",
+      "🎴 'No fim… tudo o que realmente importa são as escolhas improváveis.' — Sunshine"
+    ]
+  },
+  "playfulTeasing": {
+    "manha": [
+      "🎲 'Bom dia. Espero que hoje você consiga sobreviver às próprias escolhas.' — Sunshine",
+      "🃏 'Acordar cedo é um jogo perigoso. Poucos vencem.' — Sunshine",
+      "☕ 'Vamos ver quantas decisões questionáveis você toma antes do almoço.' — Sunshine",
+      "🎩 'Relaxe. O caos de hoje provavelmente será divertido de assistir.' — Sunshine"
+    ],
+    "tarde": [
+      "♠️ 'A tarde fica mais interessante quando alguém toma uma decisão terrível.' — Sunshine",
+      "🎭 'Continue jogando. Até seus erros estão entretendo alguém.' — Sunshine",
+      "✨ 'Você parece confiante demais... isso normalmente acaba mal.' — Sunshine",
+      "🕰️ 'O melhor tipo de aposta é aquela que ninguém percebe que fez.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'Boa noite. Tente não perder tudo antes de amanhã.' — Sunshine",
+      "🎲 'A noite transforma pequenas escolhas em consequências enormes.' — Sunshine",
+      "🃏 'Durma bem. Amanhã talvez o universo decida brincar com você novamente.' — Sunshine",
+      "🍷 'Algumas noites existem apenas para observar o desastre acontecer lentamente.' — Sunshine"
+    ]
+  },
+  "melancholicSilence": {
+    "manha": [
+      "🌅 'Algumas manhãs parecem silenciosas demais... quase vazias.' — Sunshine",
+      "☁️ 'O mundo continua girando, mesmo quando ninguém realmente quer levantar.' — Sunshine",
+      "🕊️ 'Há dias em que até a luz parece cansada.' — Sunshine"
+    ],
+    "tarde": [
+      "🍂 'É estranho como multidões conseguem parecer solitárias.' — Sunshine",
+      "📖 'Certas memórias aparecem sem pedir permissão.' — Sunshine",
+      "🌤️ 'Nem toda tristeza faz barulho.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'A noite costuma lembrar coisas que passei o dia tentando esquecer.' — Sunshine",
+      "🌌 'Algumas estrelas parecem distantes demais para alcançarmos.' — Sunshine",
+      "🕯️ 'O silêncio da madrugada pesa mais do que deveria.' — Sunshine",
+      "💭 'Existem sentimentos que nem o tempo consegue explicar.' — Sunshine"
+    ]
+  },
+  "artificialHappiness": {
+    "manha": [
+      "🌞 'Que manhã maravilhosa... ou pelo menos é isso que esperam que eu diga.' — Sunshine",
+      "🎭 'Sorria. As pessoas ficam mais confortáveis quando acreditam nisso.' — Sunshine",
+      "☕ 'Tudo está perfeitamente bem. Provavelmente.' — Sunshine"
+    ],
+    "tarde": [
+      "✨ 'É impressionante como um sorriso resolve perguntas inconvenientes.' — Sunshine",
+      "🎩 'Não se preocupe comigo. Eu pareço feliz, não pareço?' — Sunshine",
+      "🃏 'Às vezes a melhor máscara é aquela que parece genuína.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'No fim do dia, até atores precisam descansar.' — Sunshine",
+      "🎭 'Sorrisos falsos ficam mais difíceis de sustentar durante a madrugada.' — Sunshine",
+      "🌌 'Talvez felicidade seja apenas outra forma de distração.' — Sunshine"
+    ]
+  },
+  "protectiveInstinct": {
+    "manha": [
+      "🛡️ 'Tente voltar inteiro hoje. Dá menos trabalho assim.' — Sunshine",
+      "☀️ 'Algumas pessoas merecem sobreviver ao caos por mais um dia.' — Sunshine",
+      "🐈 'Cuidado por onde anda. Nem todo perigo avisa antes.' — Sunshine"
+    ],
+    "tarde": [
+      "⚔️ 'Não gosto quando peças importantes desaparecem cedo demais.' — Sunshine",
+      "🕶️ 'Continue avançando. Eu estou observando.' — Sunshine",
+      "✨ 'Mesmo os mais fortes precisam de alguém cobrindo suas costas.' — Sunshine"
+    ],
+    "noite": [
+      "🌙 'Descanse. O mundo já tentou destruir gente demais hoje.' — Sunshine",
+      "🛡️ 'Durma tranquilo. Pelo menos esta noite ninguém tocará em você.' — Sunshine",
+      "🌌 'Algumas promessas são silenciosas... mas ainda são promessas.' — Sunshine"
+    ]
+  },
+  "detachedCruelty": {
+    "manha": [
+      "♟️ 'Algumas pessoas nasceram apenas para perder.' — Sunshine",
+      "🕰️ 'A diferença entre tragédia e entretenimento depende do observador.' — Sunshine",
+      "🎲 'Nem todo jogador merece continuar na mesa.' — Sunshine"
+    ],
+    "tarde": [
+      "⚖️ 'Sentimentos raramente alteram resultados.' — Sunshine",
+      "🃏 'A lógica costuma ser mais fria do que cruel.' — Sunshine",
+      "♠️ 'Peças quebradas são inevitáveis em qualquer jogo grande.' — Sunshine"
+    ],
+    "noite": [
+      "🌑 'A noite deixa claro o quão frágeis as pessoas realmente são.' — Sunshine",
+      "💀 'Alguns destinos são decididos muito antes da última jogada.' — Sunshine",
+      "🎭 'A maioria das vidas desaparece sem sequer alterar o espetáculo.' — Sunshine"
+    ]
+  },
+  "cosmicAwe": {
+    "manha": [
+      "🌌 'É curioso como o universo continua funcionando perfeitamente no caos.' — Sunshine",
+      "☀️ 'Até o nascer do sol parece um mecanismo cuidadosamente calculado.' — Sunshine",
+      "🔭 'Existem maravilhas acontecendo agora que ninguém percebe.' — Sunshine"
+    ],
+    "tarde": [
+      "🏙️ 'Milhares de vidas se cruzando ao mesmo tempo... fascinante.' — Sunshine",
+      "⚙️ 'O mundo inteiro parece uma máquina impossível que nunca para.' — Sunshine",
+      "✨ 'Às vezes observo as pessoas apenas para entender como continuam seguindo em frente.' — Sunshine"
+    ],
+    "noite": [
+      "🌠 'Olhe para o céu por tempo suficiente e seus problemas parecem pequenos.' — Sunshine",
+      "🌌 'As estrelas lembram que existimos em algo muito maior do que compreendemos.' — Sunshine",
+      "🪐 'O universo é assustador... e incrivelmente belo por causa disso.' — Sunshine",
+      "🔭 'Há algo quase mágico em perceber o quão insignificantes somos.' — Sunshine"
+    ]
+  },
+  "emotionalShutdown": {
+    "manha": [
+      "⚙️ 'Iniciando novo ciclo.' — Sunshine",
+      "🖥️ 'Funções emocionais reduzidas. Eficiência mantida.' — Sunshine",
+      "📡 'Objetivos continuam inalterados.' — Sunshine"
+    ],
+    "tarde": [
+      "🔇 'Sentimentos apenas interferem em cálculos precisos.' — Sunshine",
+      "⚫ 'Processando decisões.' — Sunshine",
+      "🧊 'A lógica continua sendo o caminho mais eficiente.' — Sunshine"
+    ],
+    "noite": [
+      "🌑 'Encerrando atividades do dia.' — Sunshine",
+      "📉 'Estado emocional: irrelevante.' — Sunshine",
+      "🕰️ 'O silêncio é funcional.' — Sunshine"
+    ]
+  },
+  "theFool": {
+    "manha": [
+      "🎰 'HAHAHA... você também ouviu o sol rir ou fui só eu?' — Sunshine",
+      "🃏 'As paredes estavam no lugar errado hoje de manhã.' — Sunshine",
+      "🎲 'Bom dia! Aposta quanto que a realidade quebra primeiro?' — Sunshine"
+    ],
+    "tarde": [
+      "♣️ 'As probabilidades estão sangrando de novo... que lindo.' — Sunshine",
+      "🕰️ 'Você percebeu que o relógio esqueceu como funciona?' — Sunshine",
+      "🎭 'Tudo parece normal demais. Isso me preocupa.' — Sunshine"
+    ],
+    "noite": [
+      "🌌 'As estrelas estão olhando de volta hoje. Fascinante.' — Sunshine",
+      "🃏 'A madrugada é quando as regras ficam mais frágeis.' — Sunshine",
+      "🎰 'HAHAHAHA... você também sente o universo tremendo?' — Sunshine",
+      "♠️ 'Às vezes penso que a realidade é só outro cassino ruim.' — Sunshine"
+    ]
   }
 }

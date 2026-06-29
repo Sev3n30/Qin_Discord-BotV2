@@ -1,4 +1,4 @@
-const {carregarStats, salvarStats} = require("../../systems/stats.js")
+const {carregarStats, salvarStats, carregarWeeklyStats, salvarWeeklyStats} = require("../../systems/stats.js")
 
 module.exports = {
     name: "messageCreate",
@@ -22,6 +22,7 @@ module.exports = {
         if (message.author.bot) return;
 
         const stats = carregarStats();
+        const weeklyStats = carregarWeeklyStats();
         const userId = message.author.id;
 
         if(!stats[userId]){
@@ -34,9 +35,21 @@ module.exports = {
                 desafiosGanhos: 0
             }
         }
+        if(!weeklyStats[userId]){
+            weeklyStats[userId] = {
+                mensagens: 0,
+                dadosRolados: 0,
+                moedasJogadas: 0,
+                tempoCall: 0,
+                cartasRaras: 0,
+                desafiosGanhos: 0
+            }
+        }
 
+        weeklyStats[userId].mensagens++;
         stats[userId].mensagens++;
 
+        salvarWeeklyStats(weeklyStats)
         salvarStats(stats)
 
         if (!message.content.startsWith(prefix)) return;

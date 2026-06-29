@@ -1,6 +1,6 @@
 const {EmbedBuilder} = require ("discord.js")
 
-const {carregarStats, salvarStats} = require("../../systems/stats.js")
+const {carregarStats, salvarStats, carregarWeeklyStats, salvarWeeklyStats} = require("../../systems/stats.js")
 
 const {carregarColecoes, salvarColecoes} = require("../../data/colecoes")
 const usos = new Map()
@@ -80,6 +80,7 @@ module.exports = {
         const xpGanho = calcularXp(raridade)
 
         const stats = carregarStats()
+        const weeklyStats = carregarWeeklyStats();
 
         if(!stats[userId]){
             stats[userId] = {
@@ -99,6 +100,24 @@ module.exports = {
             stats[userId].cartasRaras++
         }
 
+        if(!weeklyStats[userId]){
+            weeklyStats[userId] = {
+                mensagens: 0,
+                dadosRolados: 0,
+                moedasJogadas: 0,
+                tempoCall: 0,
+                cartasRaras: 0,
+                desafiosGanhos: 0
+            }
+        }if(
+            carta.raridade == "lendaria" ||
+            carta.raridade == "transcendente" ||
+            carta.raridade == "god"
+        ){
+            weeklyStats[userId].cartasRaras++
+        }
+
+        salvarWeeklyStats(weeklyStats)
         salvarStats(stats)
 
         colecoes[userId].cartas.push(carta)

@@ -1,33 +1,15 @@
 {
   "677165577017622529": {
-    "mensagens": 152,
-    "dadosRolados": 10,
-    "moedasJogadas": 5,
-    "tempoCall": 17455082,
-    "cartasRaras": 10,
-    "desafiosGanhos": 0,
-    "callStart": null
-  },
-  "1168576947601821796": {
-    "mensagens": 25,
-    "dadosRolados": 0,
-    "moedasJogadas": 0,
-    "tempoCall": 910833,
-    "cartasRaras": 0,
-    "desafiosGanhos": 0,
-    "callStart": null
-  },
-  "697915711477121165": {
-    "mensagens": 44,
-    "dadosRolados": 0,
-    "moedasJogadas": 0,
-    "tempoCall": 6356341,
+    "mensagens": 49,
+    "dadosRolados": 3,
+    "moedasJogadas": 2,
+    "tempoCall": 9724303,
     "cartasRaras": 0,
     "desafiosGanhos": 0,
     "callStart": null
   },
   "321737913094373390": {
-    "mensagens": 95,
+    "mensagens": 50,
     "dadosRolados": 0,
     "moedasJogadas": 0,
     "tempoCall": 14684338,
@@ -36,7 +18,7 @@
     "callStart": 1779239937846
   },
   "771962783696420874": {
-    "mensagens": 38,
+    "mensagens": 37,
     "dadosRolados": 0,
     "moedasJogadas": 0,
     "tempoCall": 20840806,
@@ -44,8 +26,25 @@
     "desafiosGanhos": 0,
     "callStart": 1779248110744
   },
+  "425046218343710727": {
+    "mensagens": 115,
+    "dadosRolados": 0,
+    "moedasJogadas": 0,
+    "tempoCall": 0,
+    "cartasRaras": 0,
+    "desafiosGanhos": 0
+  },
+  "697915711477121165": {
+    "mensagens": 29,
+    "dadosRolados": 0,
+    "moedasJogadas": 0,
+    "tempoCall": 15298,
+    "cartasRaras": 0,
+    "desafiosGanhos": 0,
+    "callStart": null
+  },
   "814956857503383572": {
-    "mensagens": 35,
+    "mensagens": 17,
     "dadosRolados": 0,
     "moedasJogadas": 0,
     "tempoCall": 1970637,
@@ -54,7 +53,7 @@
     "callStart": null
   },
   "741352048271818823": {
-    "mensagens": 77,
+    "mensagens": 72,
     "dadosRolados": 0,
     "moedasJogadas": 0,
     "tempoCall": 0,
@@ -62,15 +61,7 @@
     "desafiosGanhos": 0
   },
   "1467153002988310661": {
-    "mensagens": 15,
-    "dadosRolados": 3,
-    "moedasJogadas": 4,
-    "tempoCall": 0,
-    "cartasRaras": 0,
-    "desafiosGanhos": 0
-  },
-  "425046218343710727": {
-    "mensagens": 115,
+    "mensagens": 3,
     "dadosRolados": 0,
     "moedasJogadas": 0,
     "tempoCall": 0,

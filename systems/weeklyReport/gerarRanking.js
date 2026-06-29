@@ -3,7 +3,7 @@ const { EmbedBuilder, AttachmentBuilder } = require("discord.js")
 const formatarTempo = require("./formatarTempo")
 const obterTop = require("./obterTop")
 
-const stats = require("../stats.json")
+const stats = require("../weeklyStats.json")
 
 module.exports = (client) => {
     const canalId = "1466856212657340429"
@@ -13,8 +13,9 @@ module.exports = (client) => {
     async function enviarRanking() {
         const canal = client.channels.cache.get(canalId)
 
-        const membrosArray = canal.guild.members.cache
-            .map(member => member)
+        await canal.guild.members.fetch()
+
+        const membrosArray = [...canal.guild.members.cache.values()]
 
         const membroAleatorio = membrosArray[Math.floor(Math.random() * membrosArray.length)]
 
@@ -97,6 +98,7 @@ module.exports = (client) => {
         }
         return proximoSabado
     }
+    
 
     function iniciarWeeklyReport(){
         const agora = new Date()

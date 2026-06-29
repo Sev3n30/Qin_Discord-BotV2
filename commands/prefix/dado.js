@@ -1,4 +1,4 @@
-const {carregarStats, salvarStats} = require("../../systems/stats.js")
+const {carregarStats, salvarStats, carregarWeeklyStats, salvarWeeklyStats} = require("../../systems/stats.js")
 
 module.exports = {
     name: "dado",
@@ -23,8 +23,9 @@ module.exports = {
             resultados.push(Math.floor(Math.random()* lados)+ 1)
         }
 
-        const stats = carregarStats()
-        const userId = message.author.id
+        const stats = carregarStats();
+        const weeklyStats = carregarWeeklyStats();
+        const userId = message.author.id;
 
         if(!stats[userId]){
             stats[userId] = {
@@ -36,9 +37,21 @@ module.exports = {
                 desafiosGanhos: 0
             }
         }
+        if(!weeklyStats[userId]){
+            weeklyStats[userId] = {
+                mensagens: 0,
+                dadosRolados: 0,
+                moedasJogadas: 0,
+                tempoCall: 0,
+                cartasRaras: 0,
+                desafiosGanhos: 0
+            }
+        }
 
-        stats[userId].dadosRolados++
+        weeklyStats[userId].dadosRolados++;
+        stats[userId].dadosRolados++;
 
+        salvarWeeklyStats(weeklyStats)
         salvarStats(stats)
 
         if (separar){

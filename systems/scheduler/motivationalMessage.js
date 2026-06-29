@@ -1,5 +1,5 @@
 module.exports = (client) => {
-    const canalId = "1504317984112382082" 
+    const canalId = "1519693757069393940" 
     // const canalId = "1466856212657340429" -- teste
 
     const frases = require("../../data/frases.json")
@@ -35,6 +35,6 @@ module.exports = (client) => {
 
         }, tempoAleatorio)
     }
-    enviarMensagem();
-    proximaMensagem();
+    //enviarMensagem();
+    //proximaMensagem();
 }

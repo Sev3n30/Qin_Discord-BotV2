@@ -5,13 +5,13 @@ const moodMenssages = require("../scheduler/mood/moodMessages.json");
 const {gerarPeriodo, obterPeriodo} = require("../scheduler/mood/sunshinePeriodo")
 
 module.exports = (client) => {
-    const canalId = "1504317984112382082"
+    const canalId = "1519693757069393940"
 
     function obterHora(periodo){
         switch(periodo){
-            case "manha": return 7
-            case "tarde": return 13
-            case "noite": return 20
+            case "manha": return {hora: 7, minuto: 0}
+            case "tarde": return {hora: 13, minuto: 0}
+            case "noite": return {hora: 20, minuto: 0}
         }
     }
 
@@ -46,7 +46,7 @@ module.exports = (client) => {
 
         const envio = new Date()
 
-        envio.setHours(horaEnvio, 0, 0, 0)
+        envio.setHours(horaEnvio.hora, horaEnvio.minuto, 0, 0)
 
         if(envio <= agora){
             envio.setDate(envio.getDate() + 1)
@@ -54,7 +54,7 @@ module.exports = (client) => {
 
         const tempoRestante = envio.getTime() - agora.getTime()
 
-        console.log(`mensagem agendada para ${horaEnvio}:00`)
+        console.log(`mensagem agendada para ${horaEnvio.hora}:${horaEnvio.minuto}`)
 
         setTimeout(async () => {
             await enviarMensagem()

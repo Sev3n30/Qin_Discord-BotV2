@@ -24,9 +24,15 @@
         "mensagem": "Um pouco de silêncio pode revelar respostas úteis.",
         "raridade": "rara",
         "emoji": "🕯️"
+      },
+      {
+        "nome": "A Fumaça",
+        "mensagem": "Nem tudo ao seu redor é tão sólido quanto parece.",
+        "raridade": "rara",
+        "emoji": "💨"
       }
     ],
-    "xp": 8,
+    "xp": 11,
     "nivel": 0
   },
   "1467153002988310661": {
@@ -342,9 +348,33 @@
         "mensagem": "Nem tudo ao seu redor é tão sólido quanto parece.",
         "raridade": "rara",
         "emoji": "💨"
+      },
+      {
+        "nome": "A Névoa",
+        "mensagem": "Nem toda confusão dura para sempre.",
+        "raridade": "comum",
+        "emoji": "🌫️"
+      },
+      {
+        "nome": "O Café",
+        "mensagem": "Talvez tudo o que você precise hoje seja um pequeno descanso.",
+        "raridade": "comum",
+        "emoji": "☕"
+      },
+      {
+        "nome": "A Chuva",
+        "mensagem": "Nem toda melancolia é algo ruim.",
+        "raridade": "rara",
+        "emoji": "🌧️"
+      },
+      {
+        "nome": "O Guarda-Chuva",
+        "mensagem": "Prevenção ainda é melhor do que arrependimento.",
+        "raridade": "comum",
+        "emoji": "☂️"
       }
     ],
-    "xp": 740,
+    "xp": 746,
     "nivel": 8
   }
 }

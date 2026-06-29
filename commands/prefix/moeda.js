@@ -1,5 +1,5 @@
 const { EmbedBuilder } = require("discord.js")
-const { carregarStats, salvarStats } = require("../../systems/stats")
+const { carregarStats, salvarStats, carregarWeeklyStats, salvarWeeklyStats} = require("../../systems/stats")
 
 module.exports = {
     name: "moeda", 
@@ -14,8 +14,9 @@ module.exports = {
             .setColor(0xffd700)
             .setTimestamp()
 
-        const stats = carregarStats()
-        const userId = message.author.id
+        const stats = carregarStats();
+        const weeklyStats = carregarWeeklyStats();
+        const userId = message.author.id;
 
         if(!stats[userId]){
             stats[userId] = {
@@ -27,9 +28,21 @@ module.exports = {
                 desafiosGanhos: 0
             }
         }
+        if(!weeklyStats[userId]){
+            weeklyStats[userId] = {
+                mensagens: 0,
+                dadosRolados: 0,
+                moedasJogadas: 0,
+                tempoCall: 0,
+                cartasRaras: 0,
+                desafiosGanhos: 0
+            }
+        }
 
-        stats[userId].moedasJogadas++
+        weeklyStats[userId].moedasJogadas++;
+        stats[userId].moedasJogadas++;
 
+        salvarWeeklyStats(weeklyStats)
         salvarStats(stats)
 
         message.reply({embeds: [embed]})
